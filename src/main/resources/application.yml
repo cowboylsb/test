@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://cowboylsb:tjsql102830.@cluster.sovfpkr.mongodb.net/wifi_info?retryWrites=true&w=majority&appName=Cluster
+
